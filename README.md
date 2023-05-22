@@ -32,3 +32,19 @@ Click "Install". Make sure the "Apply included layout" is checked or else the sk
 
 If you want the layout setup, load **both** resin/resin.ini and small/arrow.ini and have them running at the same time.
 ![image](https://github.com/eileenthg/resin-meter/assets/40307498/fa35c0c7-b494-4b7f-9530-e168cd0fc009)
+
+# IMPORTANT!! CONFIGURATION!
+You need to link your account to the python file in order to correctly display your stats. Update your data inside the rainmeter skin files.
+
+Right click the skin file and open folder.
+![image](https://github.com/eileenthg/resin-meter/assets/40307498/ca8f9406-886a-4834-a116-02b20eb10d3d)
+
+There will be three folders. Navigate to **Resin/full** and **Resin/resin** to access real-time-notes.py for their respective skins.
+![image](https://github.com/eileenthg/resin-meter/assets/40307498/5f6dfd84-4a9a-4b74-807d-b4d3b8dad315)
+![image](https://github.com/eileenthg/resin-meter/assets/40307498/0455e585-75ea-4a70-a882-818b3f0d5920)
+
+Update these two rows with your own information, for **both** files. Resin/full is for the large display, Resin/resin is for the small display.
+![image](https://github.com/eileenthg/resin-meter/assets/40307498/23af1cc7-70bb-4caf-91fd-b9d3bbd1693e)
+
+To get the details, refer to setup instructions [here](https://github.com/eileenthg/hoyolab-resin-counter-3.0/blob/main/README.md#setting-up-hoyolab-resin-counter).
+
