@@ -18,6 +18,6 @@ Travel notes fetched from Hoyolab API, which includes:
   - note: countdown may be inaccurate. Refer to the cap timestamp.
 - Number of expeditions completed
 
-Data/wording based on [hoyolab-resin-counter](https://github.com/eileenthg/hoyolab-resin-counter-3.0/blob/main/README.md), originally by seriaati.
+Built on code from [hoyolab-resin-counter](https://github.com/eileenthg/hoyolab-resin-counter-3.0/blob/main/README.md), originally by seriaati.
 
 Data obtained with the help of [genshin.py](https://github.com/thesadru/genshin.py) by thesadru.
