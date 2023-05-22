@@ -46,5 +46,5 @@ There will be three folders. Navigate to **Resin/full** and **Resin/resin** to a
 Update these two rows with your own information, for **both** files. Resin/full is for the large display, Resin/resin is for the small display.
 ![image](https://github.com/eileenthg/resin-meter/assets/40307498/23af1cc7-70bb-4caf-91fd-b9d3bbd1693e)
 
-To get the details, refer to setup instructions [here](https://github.com/eileenthg/hoyolab-resin-counter-3.0/blob/main/README.md#setting-up-hoyolab-resin-counter).
+To get the details, refer to setup instructions [here](https://github.com/eileenthg/hoyolab-resin-counter-3.0/blob/main/README.md#adding-your-account).
 
