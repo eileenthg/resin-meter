@@ -23,7 +23,7 @@ Built on code from [hoyolab-resin-counter](https://github.com/eileenthg/hoyolab-
 Data obtained with the help of [genshin.py](https://github.com/thesadru/genshin.py) by thesadru.
 
 # How to install
-If you haven't install Rainmeter yet, go [here](https://www.rainmeter.net/).
+If you haven't install Rainmeter yet, go [here](https://www.rainmeter.net/) and install it.
 
 Download the latest rmskin [here](https://github.com/eileenthg/resin-meter/releases/), and run it.
 
