@@ -5,7 +5,7 @@ Rainmeter skin to display Genshin notes.
 
 ![image](https://github.com/eileenthg/resin-meter/assets/40307498/ebabfac7-05d8-4951-8b54-1c0e69724b4e)
 
-Shows current amount of resin in game.
+Shows current amount of resin in game using a small display on the top right corner.
 
 Click on the arrow to display travel notes.
 
