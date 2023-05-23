@@ -4,9 +4,9 @@ from datetime import datetime, timedelta
 from sys import platform
 
 async def main():
-    client = client = genshin.Client({"ltuid":"40357978", "ltoken":"4cxrpwPIsGOVHShPITi5t2rIumvNSLqUwRX26ocg"})
+    client = client = genshin.Client({"ltuid":"XXX", "ltoken":"XXX"})
 
-    notes = await client.get_notes(807040435) #UID HERE
+    notes = await client.get_notes(XXX) #UID HERE
         
     # output
     print(f"Current resin: {notes.current_resin}/{notes.max_resin}")
