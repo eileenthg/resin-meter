@@ -46,5 +46,5 @@ There will be three folders. Navigate to **Resin/full** and **Resin/resin** to a
 Update these two rows with your own information, for **both** files. Resin/full is for the large display, Resin/resin is for the small display.
 ![image](https://github.com/eileenthg/resin-meter/assets/40307498/23af1cc7-70bb-4caf-91fd-b9d3bbd1693e)
 
-To get the ltuid and ltoken, refer [here]("https://thesadru.github.io/genshin.py/authentication/#how-can-i-get-my-cookies").
+To get the ltuid and ltoken, refer [here](https://thesadru.github.io/genshin.py/authentication/#how-can-i-get-my-cookies).
 
