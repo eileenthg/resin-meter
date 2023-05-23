@@ -4,9 +4,9 @@ from datetime import datetime, timedelta
 from sys import platform
 
 async def main():
-    client = genshin.Client({"ltuid":"40357978", "ltoken":"4cxrpwPIsGOVHShPITi5t2rIumvNSLqUwRX26ocg"}) #Must log in with your own account in your web browser.
+    client = genshin.Client({"ltuid":"XXX", "ltoken":"XXX"}) #Must log in with your own account in your web browser.
 
-    notes = await client.get_notes(807040435) #UID HERE
+    notes = await client.get_notes(XXX) #UID HERE
     
     #print(notes) #only for debugging, if mhy changes the name again.
     
